@@ -1,4 +1,4 @@
-module go.t1ltxz.ninja/shortify
+module go.tilt.ninja/shortify
 
 go 1.22
 
