@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/models"
 )
 
 // URLRepository is an interface that represents a repository for URLs.
