@@ -1,8 +1,8 @@
 package converter
 
 import (
-	"github.com/t1ltxz-gxd/shortify/internal/models"
-	desc "github.com/t1ltxz-gxd/shortify/pkg/url_v1"
+	"github.com/tiltful/shortify/internal/models"
+	desc "github.com/tiltful/shortify/pkg/url_v1"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 
