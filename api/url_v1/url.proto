@@ -4,7 +4,7 @@ package url_v1;
 
 import "google/protobuf/timestamp.proto";
 
-option go_package = "github.com/t1ltxz-gxd/shortify/pkg/url_v1;url_v1";
+option go_package = "github.com/tiltful/shortify/pkg/url_v1;url_v1";
 
 // UrlV1 is a service that provides methods for getting and creating URLs.
 service UrlV1 {
