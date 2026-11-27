@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/jmoiron/sqlx"
 	"github.com/spf13/viper"
-	def "github.com/t1ltxz-gxd/shortify/internal/database"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
+	def "github.com/tiltful/shortify/internal/database"
+	"github.com/tiltful/shortify/internal/middleware/logger"
 	"go.uber.org/zap"
 	"os"
 )
