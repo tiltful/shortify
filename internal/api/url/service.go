@@ -1,8 +1,8 @@
 package url
 
 import (
-	"github.com/t1ltxz-gxd/shortify/internal/service"
-	desc "github.com/t1ltxz-gxd/shortify/pkg/url_v1"
+	"github.com/tiltful/shortify/internal/service"
+	desc "github.com/tiltful/shortify/pkg/url_v1"
 )
 
 // Implementation is a struct that embeds the UnimplementedUrlV1Server interface from the url_v1 package
