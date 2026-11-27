@@ -2,7 +2,7 @@ package cache
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/models"
 	"time"
 )
 
