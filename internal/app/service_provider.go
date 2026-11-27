@@ -2,15 +2,15 @@ package app
 
 import (
 	"github.com/spf13/viper"
-	"github.com/t1ltxz-gxd/shortify/internal/api/url"
-	"github.com/t1ltxz-gxd/shortify/internal/config"
-	pgURL "github.com/t1ltxz-gxd/shortify/internal/database/postgres/url"
-	redisURL "github.com/t1ltxz-gxd/shortify/internal/middleware/cache/redis/url"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
-	"github.com/t1ltxz-gxd/shortify/internal/repository"
-	urlRepository "github.com/t1ltxz-gxd/shortify/internal/repository/url"
-	"github.com/t1ltxz-gxd/shortify/internal/service"
-	urlService "github.com/t1ltxz-gxd/shortify/internal/service/url"
+	"github.com/tiltful/shortify/internal/api/url"
+	"github.com/tiltful/shortify/internal/config"
+	pgURL "github.com/tiltful/shortify/internal/database/postgres/url"
+	redisURL "github.com/tiltful/shortify/internal/middleware/cache/redis/url"
+	"github.com/tiltful/shortify/internal/middleware/logger"
+	"github.com/tiltful/shortify/internal/repository"
+	urlRepository "github.com/tiltful/shortify/internal/repository/url"
+	"github.com/tiltful/shortify/internal/service"
+	urlService "github.com/tiltful/shortify/internal/service/url"
 	"go.uber.org/zap"
 )
 
