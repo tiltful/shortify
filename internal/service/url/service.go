@@ -1,8 +1,8 @@
 package url
 
 import (
-	"github.com/t1ltxz-gxd/shortify/internal/repository"
-	def "github.com/t1ltxz-gxd/shortify/internal/service"
+	"github.com/tiltful/shortify/internal/repository"
+	def "github.com/tiltful/shortify/internal/service"
 )
 
 // Ensure that the service struct implements the URLService interface
