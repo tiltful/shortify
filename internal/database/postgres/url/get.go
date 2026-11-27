@@ -4,10 +4,10 @@ import (
 	"context"
 	"database/sql"
 	"errors"
-	"github.com/t1ltxz-gxd/shortify/internal/database/postgres/url/converter"
-	repoModel "github.com/t1ltxz-gxd/shortify/internal/database/postgres/url/models"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/database/postgres/url/converter"
+	repoModel "github.com/tiltful/shortify/internal/database/postgres/url/models"
+	"github.com/tiltful/shortify/internal/middleware/logger"
+	"github.com/tiltful/shortify/internal/models"
 	"go.uber.org/zap"
 )
 
