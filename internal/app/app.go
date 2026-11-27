@@ -5,9 +5,9 @@ import (
 	// reviving the pq driver
 	_ "github.com/lib/pq"
 	"github.com/spf13/viper"
-	"github.com/t1ltxz-gxd/shortify/internal/config"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
-	desc "github.com/t1ltxz-gxd/shortify/pkg/url_v1"
+	"github.com/tiltful/shortify/internal/config"
+	"github.com/tiltful/shortify/internal/middleware/logger"
+	desc "github.com/tiltful/shortify/pkg/url_v1"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
