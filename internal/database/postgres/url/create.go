@@ -3,8 +3,8 @@ package url
 import (
 	"context"
 	"database/sql"
-	repoModel "github.com/t1ltxz-gxd/shortify/internal/database/postgres/url/models"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
+	repoModel "github.com/tiltful/shortify/internal/database/postgres/url/models"
+	"github.com/tiltful/shortify/internal/middleware/logger"
 	"go.uber.org/zap"
 	"time"
 )
