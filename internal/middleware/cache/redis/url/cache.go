@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/go-redis/redis"
 	"github.com/spf13/viper"
-	def "github.com/t1ltxz-gxd/shortify/internal/middleware/cache"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
+	def "github.com/tiltful/shortify/internal/middleware/cache"
+	"github.com/tiltful/shortify/internal/middleware/logger"
 	"go.uber.org/zap"
 	"os"
 )
