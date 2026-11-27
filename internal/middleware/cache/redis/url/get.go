@@ -2,8 +2,8 @@ package url
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/middleware/logger"
+	"github.com/tiltful/shortify/internal/models"
 	"go.uber.org/zap"
 )
 
