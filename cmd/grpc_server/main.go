@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/app"
+	"github.com/tiltful/shortify/internal/app"
 	"log"
 )
 
