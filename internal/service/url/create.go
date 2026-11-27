@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/speps/go-hashids"
 	"github.com/spf13/viper"
-	"github.com/t1ltxz-gxd/shortify/internal/middleware/logger"
+	"github.com/tiltful/shortify/internal/middleware/logger"
 	"go.uber.org/zap"
 )
 
