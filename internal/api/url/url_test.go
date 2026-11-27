@@ -3,13 +3,13 @@ package url_test
 import (
 	"context"
 	"errors"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/models"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/t1ltxz-gxd/shortify/internal/api/url"
-	desc "github.com/t1ltxz-gxd/shortify/pkg/url_v1"
+	"github.com/tiltful/shortify/internal/api/url"
+	desc "github.com/tiltful/shortify/pkg/url_v1"
 )
 
 // MockURLService is a struct that mocks the URLService interface for testing.
