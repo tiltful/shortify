@@ -2,7 +2,7 @@ package database
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/models"
+	"github.com/tiltful/shortify/internal/models"
 )
 
 // URLDatabase is an interface that defines the methods for URL database operations.
