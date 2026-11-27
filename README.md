@@ -1,15 +1,15 @@
-[![Preview](/media/preview.png)](https://github.com/t1ltxz-gxd/shortify)
+[![Preview](/media/preview.png)](https://github.com/tiltful/shortify)
 
-[![Stars](https://custom-icon-badges.demolab.com/github/stars/t1ltxz-gxd/shortify?logo=star)](https://github.com/t1ltxz-gxd/shortify/stargazers')
-[![Open issues](https://custom-icon-badges.demolab.com/github/issues-raw/t1ltxz-gxd/shortify?logo=issue)](https://github.com/t1ltxz-gxd/shortify/issues)
-[![License](https://custom-icon-badges.demolab.com/github/license/t1ltxz-gxd//shortify?logo=law)](https://github.com/DenverCoder1/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2023-03-15T18%3A10%3A26Z "license MIT")
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/tiltful/shortify?logo=star)](https://github.com/tiltful/shortify/stargazers')
+[![Open issues](https://custom-icon-badges.demolab.com/github/issues-raw/tiltful/shortify?logo=issue)](https://github.com/tiltful/shortify/issues)
+[![License](https://custom-icon-badges.demolab.com/github/license/tiltful//shortify?logo=law)](https://github.com/DenverCoder1/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2023-03-15T18%3A10%3A26Z "license MIT")
 [![Powered by Go](https://custom-icon-badges.herokuapp.com/badge/-Powered%20by%20Go-0d1620?logo=go)](https://go.dev/ "Powered by GO")
 [![Powered by Postgres](https://custom-icon-badges.herokuapp.com/badge/-Powered%20by%20PosgreSQL-0d1620?logo=postgres)](https://github.com/postgres/postgres "Powered by Postgres")
 ___
 
 ## 🧩 Installation
 ```
-git clone https://github.com/t1ltxz-gxd/shortify.git 
+git clone https://github.com/tiltful/shortify.git 
 cd shortify
 go build
 ```
@@ -74,8 +74,8 @@ ___
 Contributions are what make the open source community an amazing place to learn, be inspired, and create.
 Any contributions you make are **greatly appreciated**.
 
-1. [Fork the repository](https://github.com/t1ltxz-gxd/shortify/fork)
-2. Clone your fork `git clone https://github.com/t1ltxz-gxd/shortify.git`
+1. [Fork the repository](https://github.com/tiltful/shortify/fork)
+2. Clone your fork `git clone https://github.com/tiltful/shortify.git`
 3. Create your feature branch `git checkout -b AmazingFeature`
 4. Stage changes `git add .`
 5. Commit your changes `git commit -m 'Added some AmazingFeature'`
@@ -84,4 +84,4 @@ Any contributions you make are **greatly appreciated**.
 
 ## ❤️ Credits
 
-Released with ❤️ by [Tilt](https://github.com/t1ltxz-gxd).
+Released with ❤️ by [Tilt](https://github.com/tiltful).
