@@ -2,8 +2,8 @@ package url
 
 import (
 	"context"
-	"github.com/t1ltxz-gxd/shortify/internal/converter"
-	desc "github.com/t1ltxz-gxd/shortify/pkg/url_v1"
+	"github.com/tiltful/shortify/internal/converter"
+	desc "github.com/tiltful/shortify/pkg/url_v1"
 )
 
 // Implementation is a struct that implements the URL service interface.
